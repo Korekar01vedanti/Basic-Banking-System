@@ -12,4 +12,4 @@ Database : MySQL
 1. User Table :-User table have basic fields such as name, email and current balance.
 2. Transcation Table :-Transaction tble records ll transfers happened with their time.
 # Flow of the Website :
-Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to transfer > View all Customers.
+Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer > View all Customers.
